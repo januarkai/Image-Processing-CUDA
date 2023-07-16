@@ -1,0 +1,4 @@
+/home/januar/Desktop/Image-Processing-CUDA/build/CMakeFiles/improcCUDA.dir
+/home/januar/Desktop/Image-Processing-CUDA/build/CMakeFiles/improcCPU.dir
+/home/januar/Desktop/Image-Processing-CUDA/build/CMakeFiles/edit_cache.dir
+/home/januar/Desktop/Image-Processing-CUDA/build/CMakeFiles/rebuild_cache.dir
